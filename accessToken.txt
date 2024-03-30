@@ -1,0 +1,16 @@
+registration:
+API Response Data: {
+  companyName: 'praveenram',
+  clientID: 'a44cec83-3df6-400a-90e4-06bf56107262',
+  clientSecret: 'lLwMJjRTUihjaOxA',
+  ownerName: 'praveenram',
+  ownerEmail: 'praveenramrkr@gmail.com',
+  rollNo: '20mid0221'
+}
+
+access_token:
+API Response Data: {
+  token_type: 'Bearer',
+  access_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzExNzk1MzE5LCJpYXQiOjE3MTE3OTUwMTksImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6ImE0NGNlYzgzLTNkZjYtNDAwYS05MGU0LTA2YmY1NjEwNzI2MiIsInN1YiI6InByYXZlZW5yYW1ya3JAZ21haWwuY29tIn0sImNvbXBhbnlOYW1lIjoicHJhdmVlbnJhbSIsImNsaWVudElEIjoiYTQ0Y2VjODMtM2RmNi00MDBhLTkwZTQtMDZiZjU2MTA3MjYyIiwiY2xpZW50U2VjcmV0IjoibEx3TUpqUlRVaWhqYU94QSIsIm93bmVyTmFtZSI6InByYXZlZW5yYW0iLCJvd25lckVtYWlsIjoicHJhdmVlbnJhbXJrckBnbWFpbC5jb20iLCJyb2xsTm8iOiIyMG1pZDAyMjEifQ.ipBig_7fn6dNkCdkqk-nkdJpyGTXGCiCo77R7X4P7Zc',
+  expires_in: 1711795319
+}
